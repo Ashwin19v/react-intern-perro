@@ -1,0 +1,54 @@
+[
+  {
+    "title": "MyPerro1",
+    "overallRating": 4,
+    "starRating": "⭐⭐⭐⭐",
+    "home": {
+      "label": "Home",
+      "distance": "3 km"
+    },
+    "cleanlinessRating": {
+      "score": 4.2,
+      "label": "Cleanliness and hygiene"
+    }
+  },
+  {
+    "title": "MyPerro2",
+    "overallRating": 5,
+    "starRating": "⭐⭐⭐⭐",
+    "home": {
+      "label": "Home1",
+      "distance": "23 km"
+    },
+    "cleanlinessRating": {
+      "score": 4.2,
+      "label": "Cleanliness and hygiene"
+    }
+  },
+  {
+    "title": "MyPerro3",
+    "overallRating": 5,
+    "starRating": "⭐⭐⭐⭐⭐",
+    "home": {
+      "label": "Home2",
+      "distance": "10 km"
+    },
+    "cleanlinessRating": {
+      "score": 4.2,
+      "label": "Cleanliness and hygiene"
+    }
+  },
+  {
+    "title": "MyPerro4",
+    "overallRating": 4.5,
+    "starRating": "⭐⭐⭐",
+    "home": {
+      "label": "Home3",
+      "distance": "13 km"
+    },
+    "cleanlinessRating": {
+      "score": 4.2,
+      "label": "Cleanliness and hygiene"
+    }
+  }
+]
